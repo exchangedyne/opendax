@@ -1,15 +1,15 @@
 ---
 app:
-  name: OpenDAX
-  domain: app.local
-  subdomain: www
+  name: Dyne Crypto
+  domain: dynecoin.com
+  subdomain: trade
   show_landing: true
-  opendax_addr: https://www.opendax.cloud
+  opendax_addr: https://trade.dynecoin.com
   wizard_enabled: true
 render_protect: false
 csrfEnabled: true
 ssl:
-  enabled: false
+  enabled: true
   email: support@example.com
 updateVersions: false
 images:
